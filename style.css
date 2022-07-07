@@ -1,105 +1,69 @@
 body{
-background-color: grey;
+    background-color: grey;
 }
 
 #photo {
-float: right;
-width: 180px;
-margin: 10px 0px 10px 10px;
+    float: right;
+    width: 180px;
+    margin: 10px 0px 10px 10px;
 }  
 
 #identification {
-text-align: right;
+    text-align: right;
 } 
 
 #plan {
-float: left;
-width: 180px;
-margin: 10px 10px 10px 0px;
-border: black dotted 2px;
+    float: left;
+    width: 180px;
+    margin: 10px 10px 10px 0px;
+    border: black dotted 2px;
 }  
 
 #coordonnees {
-text-align: left;
+    text-align: left;
 }
 
 strong{
-color: red;
-font-weight : bold;
+    color: red;
+    font-weight : bold;
 }    
 
 h1{
-text-shadow: 6px 6px 6px
+    text-shadow: 6px 6px 6px
 }
 
 h3 {
-clear: both;
-background-color: #98c5ec;
-font-size: large;
+    clear: both;
+    background-color: #98c5ec;
+    font-size: large;
 }
 
 span {
-font-weight: bold;
+    font-weight: bold;
 }  
 
 #cv {
-background-color: white;
-width: 21cm;
-height: 29,7cm;
-margin: 1cm;
-padding: 1cm 1cm;
-border-color: rgb(0,0,0);
-border-style: solid;
-border-width: 0px;
-box-shadow: 10px 10px 10px black;
+    background-color: white;
+    width: 21cm;
+    height: 29,7cm;
+    margin: 1cm;
+    padding: 1cm 1cm;
+    border-color: rgb(0,0,0);
+    border-style: solid;
+    border-width: 0px;
+    box-shadow: 10px 10px 10px black;
 }
 
 em {
-font-size: 0%;
-font-weight: bold;
-color: blue;
+    font-size: 0%;
+    font-weight: bold;
+    color: blue;
 }   
 
-.aserti:hover em {
-font-size: medium;
+.certif:hover em {
+    font-size: medium;
 }
 
-.aceltis:hover em {
-font-size: medium;
+.emploi:hover em {
+    font-size: medium;
 }
-
-.eis:hover em {
-font-size: medium;
-}
-
-.industechnic:hover em { 
-font-size: medium;
-}
-
-.html:hover em { 
-font-size: medium;
-} 
-
-.css:hover em { 
-font-size: medium;
-} 
-
-.js:hover em { 
-font-size: medium;
-} 
-
-.jq:hover em { 
-font-size: medium;
-} 
-
-.php:hover em { 
-font-size: medium;
-} 
-
-.sql:hover em { 
-font-size: medium;
-} 
-.secu:hover em { 
-font-size: medium;
-}      
-                                                       
